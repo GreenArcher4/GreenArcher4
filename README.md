@@ -13,7 +13,7 @@ SQL · Microsoft SQL Server · Python (pandas) · Java · Data Visualization · 
 
 📫 How to reach me
 
-Email: lornawaithanji@gmail.com
+
 LinkedIn: https://ke.linkedin.com/in/lorna-w-a33aab311?trk=people-guest_people_search-card
 
 🌿 Fun fact: I am also a digital artist working with Adobe Photoshop; I do not use AI. I also work with traditional media. Feel free to reach out to me for art commissions.
