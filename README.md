@@ -10,7 +10,7 @@
 
 ---
 
-##🛠️ Tools and Languages I use:
+### 🛠️ Tools and Languages I use:
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
@@ -31,7 +31,7 @@
 
 ---
 
-## 📂 Featured Project
+### 📂 Featured Project
 
 **[Everything-SQL-mastery](https://github.com/GreenArcher4/Everything-SQL-mastery)**: what I've learnt and am continuing to learn in the SQL universe.
 
