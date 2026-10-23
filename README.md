@@ -8,16 +8,9 @@
 * Learning to build AI agents to speed up data cleaning & exploration
 * A small Java game, for fun
 
-🛠️ Tools and Languages I use:
-<h1 align="center">Hi, I'm GreenArcher4 👋</h1>
-
-<p align="center">
-  Student learning and building in the world of data and software.
-</p>
-
 ---
 
-## 🛠️ Tools and Languages I Use
+##🛠️ Tools and Languages I use:
 
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
