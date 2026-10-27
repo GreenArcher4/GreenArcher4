@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠️ 🛠️ Tools & Languages I use:
+### 🛠️ Tools & Languages I use:
 
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
@@ -22,14 +22,16 @@
 -->
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,js,py,java,git,github,vscode,SQL,sklearn" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,js,py,java,git,github,vscode,sklearn" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
 </p>
-<p align="left">
+
 Graphic Design:
+<p align="left">
+
   <img src="https://skillicons.dev/icons?i=ai,ps" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
