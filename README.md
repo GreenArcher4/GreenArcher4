@@ -10,13 +10,12 @@
 
 ---
 
-### 🛠️ Tools & Languages I use:
+## 🛠️ Tools & Languages I use:
 
 <!-- <p align="center">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   </p>
 -->
@@ -25,11 +24,15 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,js,py,java,git,github,vscode,sklearn" />
 </p>
 <p align="left">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+  
 </p>
 
-Graphic Design:
+## Graphic Design:
 <p align="left">
 
   <img src="https://skillicons.dev/icons?i=ai,ps" />
@@ -42,11 +45,11 @@ Graphic Design:
 
 ---
 
-### 📂 Featured Project
+## 📂 Featured Project
 
 **[Everything-SQL-mastery](https://github.com/GreenArcher4/Everything-SQL-mastery)**: what I've learnt and am continuing to learn in the SQL universe.
 
-📫 How to reach me
+## 📫 How to reach me
 
 <p align="left">
   <a href="[https://example.com](https://ke.linkedin.com/in/lorna-w-a33aab311?trk=people-guest_people_search-card)">
