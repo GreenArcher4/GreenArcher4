@@ -22,14 +22,19 @@
 -->
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,js,py,java,git,github,vscode,SQL,SQL Server Management Studio,sklearn,ai" />
-  
+  <img src="https://skillicons.dev/icons?i=js,html,css,js,py,java,git,github,vscode,SQL,sklearn" />
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
-  Graphic Design
+</p>
+<p align="left">
+Graphic Design:
   <img src="https://skillicons.dev/icons?i=ai,ps" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
+  
+
 
 
 
@@ -40,10 +45,14 @@
 **[Everything-SQL-mastery](https://github.com/GreenArcher4/Everything-SQL-mastery)**: what I've learnt and am continuing to learn in the SQL universe.
 
 📫 How to reach me
-<a href="[https://example.com](https://ke.linkedin.com/in/lorna-w-a33aab311?trk=people-guest_people_search-card)">
+
+<p align="left">
+  <a href="[https://example.com](https://ke.linkedin.com/in/lorna-w-a33aab311?trk=people-guest_people_search-card)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
     
 </a>
+</p>
+
 
 
 🌿 Fun fact: I am also a digital artist working with Adobe Photoshop; I do not use AI. I also work with traditional media. Feel free to reach out to me for art commissions.
